@@ -20,7 +20,7 @@ Antes de executar, é necessário restaurar as dependências e compilar o projet
 
 bash
 
-# Na raiz do projeto
+# Configuração do projeto
 
 dotnet build
 
@@ -70,5 +70,6 @@ Endpoint do Servidor: https://ken01.utad.pt:9091
 Segurança SSL: O código está configurado para aceitar certificados não confiáveis 
 
 Mockserver: O comportamento do servidor é simulado (70% das credenciais são válidas, 30% inválidas).
+
 
 
