@@ -1,4 +1,4 @@
-## Estrutura do Projeto
+## Estrutura
 
 A solução está dividida em dois clientes distintos para garantir a separação de responsabilidades (Registo vs Votação):
 
@@ -70,4 +70,5 @@ Endpoint do Servidor: https://ken01.utad.pt:9091
 Segurança SSL: O código está configurado para aceitar certificados não confiáveis 
 
 Mockserver: O comportamento do servidor é simulado (70% das credenciais são válidas, 30% inválidas).
+
 
